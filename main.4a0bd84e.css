@@ -1,0 +1,2 @@
+body{margin:0;font-family:arial,sans-serif;font-size:100px}.block{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr))}@media (min-width:1200px){.block{grid-template-columns:repeat(3,1fr)}}.block__item{height:300px;min-width:300px;color:#fff;text-align:center;line-height:300px}.block__item--1{background:red}.block__item--2{background:#c00}.block__item--3{background:#900}.block__item--4{background:#600}.block__item--5{background:#300}.block__item--6{background:#000}
+/*# sourceMappingURL=main.4a0bd84e.css.map */
